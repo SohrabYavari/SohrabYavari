@@ -1,7 +1,7 @@
 - Hi, my username is @SohrabYavari however, I'm usually referred to as Sam.
 - Teck-Stack knowledge:
     - JavaScript
-    - TYpeScript
+    - TypeScript
     - Python
     - Java
     - C# 
