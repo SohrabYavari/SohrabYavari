@@ -1,7 +1,9 @@
-- Hi, my username is @CookieCoder103 however, I'm usually referred to as Sam.
+- Hi, my username is @SohrabYavari however, I'm usually referred to as Sam.
 - Teck-Stack knowledge:
+    - JavaScript
+    - TYpeScript
     - Python
-    - JavaScript (React)
+    - Java
     - C# 
 - I’m looking to collaborate React, C# and Python projects to further my understanding of these languages and the intricacies around them.
 - Reach me on LinkedIn or my email.
