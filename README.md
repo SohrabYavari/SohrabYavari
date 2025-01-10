@@ -1,14 +1,23 @@
-- Hi, my username is @SohrabYavari however, I'm usually referred to as Sam.
-- Teck-Stack knowledge:
-    - JavaScript
-    - TypeScript
-    - Python
-    - Java
-    - C# 
-- I’m looking to collaborate React, C# and Python projects to further my understanding of these languages and the intricacies around them.
-- Reach me on LinkedIn or my email.
-- 😊 Thank You
-<!---
-CookieCoder103/CookieCoder103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<h1 style="text-align:center; font-size: 50px;">Sohrab Yavari</h1>
+<p style="text-align:center;">Self taught programmer, life long learner!</p>
+
+---
+
+![25](linux.png) Linux Commands
+
+![25](js.png) JavaScript 
+![25](node-js.png) NodeJs 
+![25](typescript.png) TypeScript 
+![25](physics.png) React 
+![25](nextjs.png) NextJs 
+
+![25](java.png) Java 
+![25](springboot.png) SpringBoot 
+
+![25](postgresql.png) PostgreSQL
+
+---
+
+
