@@ -2,17 +2,24 @@
 ---
 
 🥐   Self-taught programmer & lifelong learner
+
 🥞   Currently expanding skills in C# and Java
+
 🥨   Northcoders Bootcamp graduate
+
 🧇   Specializing in backend development
+
 🍰   [**My Portfolio**](https://sohrabyavari.github.io/Portfolio/)
 
 ---
 # 📚 Projects:
 
 [**NC News**](https://sohrabyavari.github.io/nc-news/)
+
 [**InvestIQ**](https://sohrabyavari.github.io/InvestIQ/)
+
 [**Jane's Photography**](https://sohrabyavari.github.io/janes-photography/)
+
 [**Refreshed Solar**](https://sohrabyavari.github.io/Refreshed-Solar/)
 
 ---
